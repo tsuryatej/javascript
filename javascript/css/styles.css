@@ -1,5 +1,0 @@
-/* Similar to [&_td]:px-3 [&_td]:py-2 */
-.table-td-spacing td {
-  padding-inline: 1rem; /* ~ Bootstrap px-3 */
-  padding-block: 0.5rem; /* ~ Bootstrap py-2 */
-}
