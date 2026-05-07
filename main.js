@@ -26,4 +26,4 @@ const stringInfo = (str) => {
     camel: ${camel}
     `);
 }
-stringInfo("hi this is my text")  
+stringInfo("hi this is my text")  ``
